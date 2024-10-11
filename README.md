@@ -12,7 +12,6 @@ The goal of the game is to complete more boxes than your opponent. Players take 
 <li>If a player completes the fourth side of a box, they score a point and take another turn.</li>
 <li>The game continues until all possible boxes have been formed.</li></ul></p>
 <p><h4>Winning:</h4> The player with the most completed boxes at the end of the game wins.</p>
-<br>
 </div>
 <hr>
 
