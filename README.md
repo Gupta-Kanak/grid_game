@@ -1,6 +1,5 @@
 # Grid Game
 
-## My React App
 A web application built with plain HTML, CSS and Javascript that demonstrates my skills in front-end development.
 <hr>
 It is a simple Dots and Boxes game. Here is a brief overview of the game:
